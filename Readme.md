@@ -39,12 +39,12 @@ The Weekly Task Manager comes with a comprehensive set of features designed to e
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/weekly-task-manager.git
+git clone https://github.com/mehmonov/weekly-planner.git
 ```
 
 2. Navigate to the project directory:
 ```bash
-cd weekly-task-manager
+cd weekly-planner
 ```
 
 3. Install dependencies:
